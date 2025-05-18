@@ -1,0 +1,4 @@
+opencv-python==4.5.0
+Pillow==8.0.0
+piexif==1.1.3
+tqdm==4.56.0
