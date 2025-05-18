@@ -8,7 +8,7 @@ A lightweight Python utility for protecting privacy in images through noise addi
 - 🌫 **Noise Addition** - Add customizable random noise to obscure details
 - 🖼️ **Batch Processing** - Process entire directories
 
-## 🚀 Installation
+## Installation
 
 1. Clone this repository:
    ```bash
@@ -21,7 +21,7 @@ A lightweight Python utility for protecting privacy in images through noise addi
    pip install -r requirements.txt
    ```
 
-## 🛠 Usage
+## Usage
 
 ### Basic Commands
 
@@ -45,7 +45,7 @@ python obfuscate_images.py input/ output/ --noise --blur
 - `--noise_strength`: Intensity of noise (default: 20)
 - `--blur_radius`: Blur radius (default: 2)
 
-## 📝 Comparison with Other Tools
+## Comparison with Other Tools
 
 ### vs Fawkes
 
@@ -68,6 +68,6 @@ python obfuscate_images.py input/ output/ --noise --blur
 - Need stronger AI-targeted protection
 - Willing to trade speed for stronger protection
 
-## ⚖️ Responsible Use
+## Responsible Use
 
 This tool is intended to help users protect their privacy and sensitive information in images. Please use it in accordance with all applicable laws and platform policies. The author does not condone or support malicious, unlawful, or deceptive uses of this software.
